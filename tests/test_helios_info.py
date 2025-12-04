@@ -38,7 +38,7 @@ async def test_get_info(helios: Helios):
     data = await helios.fetch_metric_data()
     info = data.info
 
-    assert info["model"] == "Helios 145 MV"
+    assert info["model"] == "Vallox 145 MV"
     assert info["sw_version"] == "2.0.2"
     assert str(info["uuid"]) == "63580ebc-6358-0000-6358-635863586358"
 
