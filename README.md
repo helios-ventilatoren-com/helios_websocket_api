@@ -1,16 +1,6 @@
-[![Test and Lint](https://github.com/helios-ventilatoren-com/helios_websocket_api/actions/workflows/test.yml/badge.svg)](https://github.com/helios-ventilatoren-com/helios_websocket_api/actions/workflows/test.yml)
-[![PyPI - Status](https://img.shields.io/pypi/status/helios_websocket_api)](https://github.com/helios-ventilatoren-com/helios_websocket_api/actions)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/helios_websocket_api)
-[![PyPI](https://img.shields.io/pypi/v/helios_websocket_api)](https://pypi.org/project/helios-websocket-api/)
-[![PyPI - License](https://img.shields.io/pypi/l/helios_websocket_api)](./LICENSE.txt)
-[![Codecov](https://img.shields.io/codecov/c/github/helios-ventilatoren-com/helios_websocket_api)](https://app.codecov.io/gh/helios-ventilatoren-com/helios_websocket_api)
-
-
 
 # helios_websocket_api
-New async version of WebSocket API for Helios ventilation units
-
-Old sync version is available [1.5.x](https://pypi.org/project/helios-websocket-api/1.5.2/)
+WebSocket API for Helios Ventilation units
 
 ## Releases
 
