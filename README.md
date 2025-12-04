@@ -63,10 +63,6 @@ Code uses next libraries
     # or
 
     pip install git+https://github.com/helios-ventilatoren-com/helios_websocket_api
-
-    # for old version for Python 2.7
-    pip install 'helios-websocket-api>=1.5.0,<2.0.0'
-
 # Usage
 
 Changing unit profile and reading metrics
