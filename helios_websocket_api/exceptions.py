@@ -20,3 +20,7 @@ class HeliosWebsocketException(HeliosApiException):
     """Exception for websocket errors."""
 
     pass
+
+
+class DataModelReadException(Exception):
+    pass
